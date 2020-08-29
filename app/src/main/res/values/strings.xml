@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vtalk</string>
+    <string name="prompt_enter">Please enter your phone number for verification</string>
+
+</resources>
